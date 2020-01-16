@@ -68,7 +68,7 @@ ZSH_THEME="bullet-train"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(archlinux docker git sublime)
+plugins=(archlinux docker python git sublime virtualenv virtualenvwrapper)
 
 source $ZSH/oh-my-zsh.sh
 
